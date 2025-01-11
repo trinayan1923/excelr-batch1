@@ -6,9 +6,9 @@ public class Demo002 {
         num1 = 10;
         num2 = 20;
         if  ( num1 > num2) {
-            System.out.println("num1 is grater");
+            System.out.println("num1 is grwater");
         }else{
-            System.out.println("num2 is grater");
+            System.out.println("num2 is grwater");
         }
     } 
 }
