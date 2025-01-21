@@ -15,7 +15,5 @@ public class Demo012
         double area = (0.5*b*h);
         
         System.out.println("Area of the triangle: " + area);
-
     }
 }
-
