@@ -8,7 +8,6 @@ public class Demo006 {
         while ((username == "Tarak Trinayan") && (password == "Tarak")) {
             System.out.println("hello user happy new year");
             break;
-            
         }
     }
 }
