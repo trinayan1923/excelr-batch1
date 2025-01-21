@@ -9,8 +9,6 @@ public class Demo013 {
         int r = sc.nextInt();
 
         double area = (3.14*r);
-        
         System.out.println("Area of the circle: " + area);
-
     }
 }
