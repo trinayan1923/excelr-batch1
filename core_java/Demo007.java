@@ -27,8 +27,6 @@ public class Demo007 {
                 System.out.println("Invalid username or password. Please try again.");
             }
         }
-        
-        // Close the scanner
         scanner.close();
     }
 }
