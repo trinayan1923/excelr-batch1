@@ -2,7 +2,7 @@ package core_java;
 
 public class Demo029 {
     public static void main(String[] args) {
-        String[] friendNames = new String[10];
+        String[] friendNames = new String[10];// you can add the details of your frds acc to int, string 
 
         // Hardcoded values for 10 friends
         friendNames[0] = "Tarak";
@@ -27,7 +27,7 @@ public class Demo029 {
         
         System.out.println("Friends details:");
         for (int i = 0; i < friendNames.length; i++) {
-            System.out.printf("Name: %s%n", friendNames[i]);
+            System.out.printf("Name: %s%n", friendNames[i]);// if add more details add here also
         }
     }
 }
