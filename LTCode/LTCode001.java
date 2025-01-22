@@ -15,6 +15,7 @@ package LTCode;
                 return (reversed==original);
         }
     }
+
     public class LTCode001 {
         public static void main(String[] args) {
             Solution s = new Solution();
