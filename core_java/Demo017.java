@@ -7,7 +7,6 @@ class SumOftwoDigits {
 		return sum;
 	}
 }
-
 public class Demo017 {
     public static void main(String[] args) {
         SumOftwoDigits obj = new SumOftwoDigits();
@@ -16,4 +15,3 @@ public class Demo017 {
 		System.out.println("The sum of two digits is : "+sum);
 	}
 }
-
