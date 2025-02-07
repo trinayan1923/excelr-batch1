@@ -1,5 +1,4 @@
 package core_java;
-
 public class Demo015 {
     public static void main(String[] args) {
         int x = 10;
@@ -12,7 +11,6 @@ public class Demo015 {
         y = temp;
         System.out.println("x = " + x);
         System.out.println("y = " + y);
-    
         }
     }
 
