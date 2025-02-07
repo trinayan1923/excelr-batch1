@@ -1,4 +1,5 @@
 package core_java;
+
 class PalindromeOf3 {
 	boolean isPalindromeOf3Digits(int n){
 		return (n/ 100) == (n % 10);
@@ -11,4 +12,3 @@ public class Demo016 {
 		System.out.println(obj.isPalindromeOf3Digits(n));
 	}
 }
-
